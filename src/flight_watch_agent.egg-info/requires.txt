@@ -1,0 +1,7 @@
+PyQt6>=6.7
+playwright>=1.48
+requests>=2.32
+matplotlib>=3.9
+
+[test]
+pytest>=8

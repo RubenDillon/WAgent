@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: flight-watch-agent
+Version: 0.13.12
+Requires-Python: >=3.11
+Requires-Dist: PyQt6>=6.7
+Requires-Dist: playwright>=1.48
+Requires-Dist: requests>=2.32
+Requires-Dist: matplotlib>=3.9
+Provides-Extra: test
+Requires-Dist: pytest>=8; extra == "test"
