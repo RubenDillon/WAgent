@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flight Search Harness"
+  short_description: "Learn and repair airline flight-search procedures safely"
+  brand_color: "#1769AA"
